@@ -1,2 +1,7 @@
 1.Datatypes
 2_string
+3_Lists
+Dt:15-7-2022
+3_Userinput
+4_Conditions
+5_Loops
